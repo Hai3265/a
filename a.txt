@@ -1,0 +1,31 @@
+BIOS
+
+主界面翻译：
+
+1.Standard CMOS Features(标准CMOS设定)
+
+2.Advanced BIOS Features(高级BIOS特性设定) 
+
+3.Advanced Chipset Features(高级芯片组功能设定)
+
+4.Power Management Features(电源管理设定)
+
+5.PNP/PCI Configurations（PnP/PCI配置
+
+6.Integrated Peripherals(整合周边设定)
+
+7.PC Health Status(PC基本状态)
+
+8.Frequency/Voltage Control(频率和电压控制)
+
+9.Set Supervisor Password(设置管理员密码)
+
+10.Set User Password(设置普通用户密码)
+
+11.Load High Performance Defaults(载入高性能缺省值)
+
+12.Load BIOS Setup Defaults(载入缺省的BIOS设定值)
+
+13.Save & Exit Setup(保存后退出)
+
+14.Exit Without Saving(不保存退出)
